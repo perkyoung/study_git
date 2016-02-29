@@ -1,7 +1,7 @@
 study_git
 aaaaa
 bbbb
-aline_one_study_git
+add_one_study_git
 add_aline_on_tmp
 update
 dfasdf
